@@ -9,6 +9,7 @@ requirements = []
 path = 'contracts/ar-content-nft.clar'
 clarity_version = 2
 epoch = 2.5
+
 [repl.analysis]
 passes = ['check_checker']
 
